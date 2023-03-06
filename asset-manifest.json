@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/course/react/static/css/main.073c9b0a.css",
-    "main.js": "/course/react/static/js/main.7d6ed398.js",
-    "static/js/787.28cb0dcd.chunk.js": "/course/react/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/course/react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/course/react/index.html",
-    "main.073c9b0a.css.map": "/course/react/static/css/main.073c9b0a.css.map",
-    "main.7d6ed398.js.map": "/course/react/static/js/main.7d6ed398.js.map",
-    "787.28cb0dcd.chunk.js.map": "/course/react/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/ywxuan/static/css/main.073c9b0a.css",
+    "main.js": "/ywxuan/static/js/main.b6a30723.js",
+    "static/js/787.28cb0dcd.chunk.js": "/ywxuan/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/ywxuan/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ywxuan/index.html",
+    "main.073c9b0a.css.map": "/ywxuan/static/css/main.073c9b0a.css.map",
+    "main.b6a30723.js.map": "/ywxuan/static/js/main.b6a30723.js.map",
+    "787.28cb0dcd.chunk.js.map": "/ywxuan/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.7d6ed398.js"
+    "static/js/main.b6a30723.js"
   ]
 }
